@@ -1,6 +1,6 @@
 [submodule "lib/requestcore"]
-	path = lib/requestcore
-	url = git://github.com/cloudfusion/requestcore.git
+    path = lib/requestcore
+    url = git://github.com/popthestack/requestcore.git
 [submodule "lib/cachecore"]
-	path = lib/cachecore
-	url = git://github.com/cloudfusion/cachecore.git
+    path = lib/cachecore
+    url = git://github.com/popthestack/cachecore.git
